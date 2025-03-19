@@ -13,4 +13,5 @@ Dentro de este repositorio se encuentran nombrados de la siguiente manera:</p>
 </div>
 
 
- <div><footer>Brenda Cecilia Flores Calderón. México, Aguascalientes. 18 de marzo de 2025. </footer> </div>
+ <div><footer>Brenda Cecilia Flores Calderón. México, Aguascalientes. 18 de marzo de 2025.
+ © Alura Latam derechos reservados</footer> </div>
