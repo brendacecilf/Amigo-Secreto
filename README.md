@@ -11,5 +11,5 @@
 <li>app.js</li>
 </div>
 
-
- <footer>Brenda Cecilia Flores Calderón. México, Aguascalientes. 18 de marzo de 2025. </footer>
+<div>
+ <footer>Brenda Cecilia Flores Calderón. México, Aguascalientes. 18 de marzo de 2025. </footer> <(/div>)
